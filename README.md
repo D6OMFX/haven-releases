@@ -21,7 +21,7 @@ Haven doesn't come with films or channels. It plays what you add to it: your own
 <p align="center">
   <a href="assets/haven-trailer.mp4"><img src="assets/trailer-poster.jpg" alt="Watch the Haven trailer" width="420"></a>
   <br>
-  <sub>The trailer, 65 seconds</sub>
+  <sub>The trailer, 72 seconds</sub>
 </p>
 
 <br>
